@@ -1,0 +1,14 @@
+@import './style/normilize.scss';
+$color_background: #292929; 
+
+body{
+  background: $color_background;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+};
+
+.hello_world {
+  color: rgb(33, 140, 211);
+};
